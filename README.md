@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX Design Anda building website
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on wordpress
-- 📫 How to reach me https://produklandingpage.com
+- 📫 How to reach me https://amarhamdani.com
 
 <!---
 amarhamdani/amarhamdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
